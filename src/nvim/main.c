@@ -2252,7 +2252,7 @@ static void usage(void)
   printf(_("  --headless            Don't start a user interface\n"));
   printf(_("  --listen <address>    Serve RPC API from this address\n"));
   printf(_("  --remote[-subcommand] Execute commands remotely on a server\n"));
-  printf(_("  --server <address>    Connect to this Nvim server\n"));
+  printf(_("  --server <address>    Connect to this IceVim server\n"));
   printf(_("  --startuptime <file>  Write startup timing messages to <file>\n"));
   printf(_("\nSee \":help startup-options\" for all options.\n"));
 }
