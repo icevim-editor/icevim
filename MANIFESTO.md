@@ -31,7 +31,7 @@ IceVim has been forked from [this commit](https://github.com/neovim/neovim/commi
 ## What are your goals?
 
 - [x] Write MANIFESTO.md
-- [ ] Change documentation to match IceVim
+- [x] Change documentation to match IceVim
 - [ ] Recruit maintainers
 
 ## What will get backported?
