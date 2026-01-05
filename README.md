@@ -2,7 +2,7 @@
 
 # IceVim
 
-IceVim is a IceVim-fork focused on stability. For more information, read
+IceVim is a Neovim-fork focused on stability. For more information, read
 [MANIFESTO.md](MANIFESTO.md).
 
 ## Installing IceVim
