@@ -30,10 +30,10 @@ IceVim has been forked from [this commit](https://github.com/neovim/neovim/commi
 
 ## What are your goals?
 
-[x] Write MANIFESTO.md
-[ ] Change documentation to match IceVim
-[ ] Recruit maintainers
-[ ] Create an appropiate test suite
+- [x] Write MANIFESTO.md
+- [ ] Change documentation to match IceVim
+- [ ] Recruit maintainers
+- [ ] Create an appropiate test suite
 
 ## What will get backported?
 
