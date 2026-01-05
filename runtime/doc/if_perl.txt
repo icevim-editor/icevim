@@ -259,9 +259,9 @@ There are multiple lexical variables.
 
 $curwin			The current Window object.
 $curbuf			The current Buffer object.
-$vim			A Neovim::Ext object.
+$vim			A IceVim::Ext object.
 $nvim			The same as $nvim.
-$current		A Neovim::Ext::Current object.
+$current		A IceVim::Ext::Current object.
 
 These are also available via the "main" package:
 

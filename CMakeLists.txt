@@ -9,7 +9,7 @@
 # Version should match the tested CMAKE_URL in .github/workflows/build.yml.
 cmake_minimum_required(VERSION 3.16)
 
-project(nvim C)
+project(icevim C)
 
 if(POLICY CMP0135)
   cmake_policy(SET CMP0135 NEW)
@@ -305,7 +305,7 @@ add_custom_target(format)
 add_dependencies(format formatc formatlua)
 
 install_helper(
-  FILES ${CMAKE_SOURCE_DIR}/src/man/nvim.1
+  FILES ${CMAKE_SOURCE_DIR}/src/man/ivim.1
   DESTINATION ${CMAKE_INSTALL_MANDIR}/man1)
 
 add_custom_target(nvim ALL)

@@ -1,4 +1,4 @@
-Contributing to Neovim
+Contributing to IceVim
 ======================
 
 Getting started
@@ -23,11 +23,11 @@ Reporting problems
 
 - [Check the FAQ][wiki-faq].
 - [Search existing issues][github-issues] (including closed!)
-- Update Neovim to the latest version to see if your problem persists.
+- Update IceVim to the latest version to see if your problem persists.
 - Try to reproduce with `nvim --clean` ("factory defaults").
 - If a specific configuration or plugin is necessary to recreate the problem, use the minimal template in `contrib/minimal.lua` with `nvim --clean -u contrib/minimal.lua` after making the necessary changes.
 - [Bisect](https://neovim.io/doc/user/starting.html#bisect) your config: disable plugins incrementally, to narrow down the cause of the issue.
-- [Bisect][git-bisect] Neovim's source code to find the cause of a regression, if you can. This is _extremely_ helpful.
+- [Bisect][git-bisect] IceVim's source code to find the cause of a regression, if you can. This is _extremely_ helpful.
 - When reporting a crash, [include a stacktrace](https://neovim.io/doc/user/dev_tools.html#dev-tools-backtrace).
 - Use [ASAN/UBSAN](#sanitizers-asan-and-ubsan) to get detailed errors for segfaults and undefined behavior.
 - Check the logs. `:edit $NVIM_LOG_FILE`
@@ -148,7 +148,7 @@ a maintainer sees the email.
   ```
   fix(coverity/{id}): {description}
   ```
-- Search the Neovim commit history to find examples:
+- Search the IceVim commit history to find examples:
   ```bash
   git log --oneline --no-merges --grep coverity
   ```
@@ -157,15 +157,15 @@ a maintainer sees the email.
 
   ASAN/UBSAN can be used to detect memory errors and other common forms of undefined behavior at runtime in debug builds.
 
-- To build Neovim with sanitizers enabled, use
+- To build IceVim with sanitizers enabled, use
   ```
   rm -rf build && CMAKE_EXTRA_FLAGS="-DCMAKE_C_COMPILER=clang -DENABLE_ASAN_UBSAN=1" make
   ```
-- When running Neovim, use
+- When running IceVim, use
   ```
   ASAN_OPTIONS=log_path=/tmp/nvim_asan nvim args...
   ```
-- If Neovim exits unexpectedly, check `/tmp/nvim_asan.{PID}` (or your preferred `log_path`) for log files with error messages.
+- If IceVim exits unexpectedly, check `/tmp/nvim_asan.{PID}` (or your preferred `log_path`) for log files with error messages.
 
 
 Coding

@@ -43,7 +43,7 @@
   "." STR(NVIM_VERSION_MINOR) "." STR(NVIM_VERSION_PATCH) \
   NVIM_VERSION_PRERELEASE
 #endif
-#define NVIM_VERSION_LONG "NVIM " NVIM_VERSION_MEDIUM  // NOLINT(bugprone-suspicious-missing-comma)
+#define NVIM_VERSION_LONG "IVIM " NVIM_VERSION_MEDIUM  // NOLINT(bugprone-suspicious-missing-comma)
 
 char *Versions[] = { "8.1", "8.2", "9.0", "9.1" };
 char *longVersion = NVIM_VERSION_LONG;
@@ -4121,7 +4121,7 @@ void list_version(void)
   version_msg(p_verbose > 0
               ? "\nRun :checkhealth for more info"
               : (starting
-                 ? "\nRun \"nvim -V1 -v\" for more info"
+                 ? "\nRun \"ivim -V1 -v\" for more info"
                  : "\nRun \":verbose version\" for more info"));
 }
 

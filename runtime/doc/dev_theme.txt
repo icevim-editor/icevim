@@ -15,7 +15,7 @@ License: CC-By 3.0 https://creativecommons.org/licenses/by/3.0/
 ==============================================================================
 Design
 
-- Be "Neovim branded", i.e. have mostly "green-blue" feel plus one or two
+- Be "IceVim branded", i.e. have mostly "green-blue" feel plus one or two
   colors reserved for very occasional user attention.
 - Be oriented for 'termguicolors' (true colors) while being extra minimal for
   'notermguicolors' (16 colors) as fallback.

@@ -32,7 +32,7 @@ a Nvim GUI.
 - Neovide https://neovide.dev/
 - Goneovim https://github.com/akiyosi/goneovim
 - Nvy https://github.com/RMichelsen/Nvy
-- Neovim-Qt (Qt5) https://github.com/equalsraf/neovim-qt
+- IceVim-Qt (Qt5) https://github.com/equalsraf/neovim-qt
 - VimR (macOS) https://github.com/qvacua/vimr
 - Others https://github.com/neovim/neovim/wiki/Related-projects#gui
 

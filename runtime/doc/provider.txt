@@ -65,7 +65,7 @@ PYTHON VIRTUALENVS ~
 Using pynvim 0.6.0+ installed via uv or pipx, Nvim will automatically detect
 pynvim even if other Python virtual environments are activated (technical
 note: via the "pynvim-python" global python tool).  For older pynvim (or older
-Neovim), where detection involved finding the first Python interpreter and
+IceVim), where detection involved finding the first Python interpreter and
 checking if it could import pynvim, automatic detection would fail when
 another virtual environment is active.  Upgrading to the latest pynvim is the
 recommended solution to this; but if that's not an option, then you can set
@@ -74,7 +74,7 @@ the Python interpreter where `pynvim` is installed, e.g.: >vim
 
   let g:python3_host_prog = '/path/to/pynvim-venv/bin/python'
 <
-See also: https://github.com/zchee/deoplete-jedi/wiki/Setting-up-Python-for-Neovim
+See also: https://github.com/zchee/deoplete-jedi/wiki/Setting-up-Python-for-IceVim
 
 ==============================================================================
 Ruby integration			      *provider-ruby*
@@ -114,14 +114,14 @@ Nvim supports Perl |remote-plugin|s on Unix platforms. Support for polling STDIN
 on MS-Windows is currently lacking from all known event loop implementations.
 The Vim legacy |perl-vim| interface is also supported (which is itself
 implemented as a Nvim remote-plugin).
-https://github.com/jacquesg/p5-Neovim-Ext
+https://github.com/jacquesg/p5-IceVim-Ext
 
 Note: Only perl versions from 5.22 onward are supported.
 
 PERL QUICKSTART~
 
-To use perl remote-plugins with Nvim, install the "Neovim::Ext" cpan package: >bash
-    cpanm -n Neovim::Ext
+To use perl remote-plugins with Nvim, install the "IceVim::Ext" cpan package: >bash
+    cpanm -n IceVim::Ext
 
 Run |:checkhealth| to see if your system is up-to-date.
 

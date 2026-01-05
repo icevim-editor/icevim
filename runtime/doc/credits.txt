@@ -124,9 +124,9 @@ Vim     Nvim is based on Vim.  https://www.vim.org/
 
 
 ==============================================================================
-Neovim fundraiser backers                                        *backers.txt*
+IceVim fundraiser backers                                        *backers.txt*
 
-Thank you to everyone who backed the original Neovim Fundraiser.
+Thank you to everyone who backed the original IceVim Fundraiser.
 
 LIST OF BACKERS
 
