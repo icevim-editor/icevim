@@ -5536,7 +5536,7 @@ msgstr "tekijät Bram Moolenaar et al."
 #~ msgstr "kirjoita :help iccf<Enter>    lisätietoa varten            "
 
 #, fuzzy
-#~ msgid "type  :checkhealth<Enter>     to optimize IceVim"
+#~ msgid " type  :checkhealth<Enter>     to optimize IceVim"
 #~ msgstr "kirjoita :help iccf<Enter>    lisätietoa varten            "
 
 msgid "type  :q<Enter>               to exit         "

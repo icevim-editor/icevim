@@ -5859,7 +5859,7 @@ msgstr "Nvim açık kaynaklıdır ve özgürce dağıtılabilir"
 msgid "type  :help nvim<Enter>       if you are new! "
 msgstr "eğer yeniyseniz         :help nvim<Enter>       "
 
-msgid "type  :checkhealth<Enter>     to optimize IceVim"
+msgid " type  :checkhealth<Enter>     to optimize IceVim"
 msgstr "Nvim'i eniyilemek için  :help checkhealth<Enter>"
 
 msgid "type  :q<Enter>               to exit         "

@@ -7189,7 +7189,7 @@ msgstr "Nvim はオープンソースであり自由に配布可能です"
 msgid "type  :help nvim<Enter>       if you are new! "
 msgstr "初めての人は             :help nvim<Enter>    "
 
-msgid "type  :checkhealth<Enter>     to optimize IceVim"
+msgid " type  :checkhealth<Enter>     to optimize IceVim"
 msgstr "Nvimを最適化するには     :checkhealth<Enter>  "
 
 msgid "type  :q<Enter>               to exit         "

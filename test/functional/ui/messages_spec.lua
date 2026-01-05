@@ -2035,7 +2035,7 @@ vimComment     xxx match /\s"[^\-:.%#=*].*$/ms=s+1,lc=1  excludenl contains=@vim
                                   https://github.com/orgs/icevim-editor/discussions                             |
                                                                                       |
                        type  :help nvim{18:<Enter>}       if you are new!                  |
-                       type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
+                        type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
                        type  :q{18:<Enter>}               to exit                          |
                        type  :help{18:<Enter>}            for help                         |
                                                                                       |
@@ -2095,7 +2095,7 @@ describe('ui/ext_messages', function()
       {1:~                           }https://github.com/orgs/icevim-editor/discussions{1:                             }|
       {1:~                                                                               }|
       {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
-      {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
+      {1:~                } type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
       {1:~                }type  :q{18:<Enter>}               to exit         {1:                 }|
       {1:~                }type  :help{18:<Enter>}            for help        {1:                 }|
       {1:~                                                                               }|
@@ -2131,7 +2131,7 @@ describe('ui/ext_messages', function()
         {1:~                           }https://github.com/orgs/icevim-editor/discussions{1:                             }|
         {1:~                                                                               }|
         {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
-        {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
+        {1:~                } type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
         {1:~                }type  :q{18:<Enter>}               to exit         {1:                 }|
         {1:~                }type  :help{18:<Enter>}            for help        {1:                 }|
         {1:~                                                                               }|
@@ -2168,7 +2168,7 @@ describe('ui/ext_messages', function()
                                     https://github.com/orgs/icevim-editor/discussions                             |
                                                                                         |
                          type  :help nvim{18:<Enter>}       if you are new!                  |
-                         type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
+                          type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
                          type  :q{18:<Enter>}               to exit                          |
                          type  :help{18:<Enter>}            for help                         |
                                                                                         |
@@ -2307,7 +2307,7 @@ it('ui/ext_multigrid supports intro screen', function()
       {1:~                           }https://github.com/orgs/icevim-editor/discussions{1:                             }|
       {1:~                                                                               }|
       {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
-      {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
+      {1:~                } type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
       {1:~                }type  :q{18:<Enter>}               to exit         {1:                 }|
       {1:~                }type  :help{18:<Enter>}            for help        {1:                 }|
       {1:~                                                                               }|

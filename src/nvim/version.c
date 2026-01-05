@@ -4150,7 +4150,7 @@ void intro_message(bool colon)
     "https://github.com/orgs/icevim-editor/discussions",
     "",
     N_("type  :help nvim<Enter>       if you are new! "),
-    N_("type  :checkhealth<Enter>     to optimize IceVim"),
+    N_(" type  :checkhealth<Enter>     to optimize IceVim"),
     N_("type  :q<Enter>               to exit         "),
     N_("type  :help<Enter>            for help        "),
     "",

@@ -7207,7 +7207,7 @@ msgstr "Nvim — це відкрита й вільно розповсюджув�
 msgid "type  :help nvim<Enter>       if you are new! "
 msgstr ":help nvim<Enter>       якщо ви вперше!       "
 
-msgid "type  :checkhealth<Enter>     to optimize IceVim"
+msgid " type  :checkhealth<Enter>     to optimize IceVim"
 msgstr ":checkhealth<Enter>     щоб оптимізувати Nvim "
 
 msgid "type  :q<Enter>               to exit         "

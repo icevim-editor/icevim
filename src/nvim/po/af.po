@@ -5483,7 +5483,7 @@ msgstr " bystand vir $VIMRUNTIME: \""
 #~ msgstr "tik   :help uganda<Enter>     as jy hou van Vim     "
 
 #, fuzzy
-#~ msgid "type  :checkhealth<Enter>     to optimize IceVim"
+#~ msgid " type  :checkhealth<Enter>     to optimize IceVim"
 #~ msgstr "Tik   :quit<Enter>  om Vim te verlaat"
 
 msgid "type  :q<Enter>               to exit         "
