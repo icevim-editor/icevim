@@ -2032,7 +2032,7 @@ vimComment     xxx match /\s"[^\-:.%#=*].*$/ms=s+1,lc=1  excludenl contains=@vim
       {MATCH:.*}|
                                                                                       |
                         IceVim is open source and freely distributable                  |
-                                  https://neovim.io/#chat                             |
+                                  https://github.com/orgs/icevim-editor/discussions                             |
                                                                                       |
                        type  :help nvim{18:<Enter>}       if you are new!                  |
                        type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
@@ -2092,7 +2092,7 @@ describe('ui/ext_messages', function()
       {MATCH:.*}|
       {1:~                                                                               }|
       {1:~                 }IceVim is open source and freely distributable{1:                  }|
-      {1:~                           }https://neovim.io/#chat{1:                             }|
+      {1:~                           }https://github.com/orgs/icevim-editor/discussions{1:                             }|
       {1:~                                                                               }|
       {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
       {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
@@ -2128,7 +2128,7 @@ describe('ui/ext_messages', function()
         {MATCH:.*}|
         {1:~                                                                               }|
         {1:~                 }IceVim is open source and freely distributable{1:                  }|
-        {1:~                           }https://neovim.io/#chat{1:                             }|
+        {1:~                           }https://github.com/orgs/icevim-editor/discussions{1:                             }|
         {1:~                                                                               }|
         {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
         {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
@@ -2165,7 +2165,7 @@ describe('ui/ext_messages', function()
         {MATCH:.*}|
                                                                                         |
                           IceVim is open source and freely distributable                  |
-                                    https://neovim.io/#chat                             |
+                                    https://github.com/orgs/icevim-editor/discussions                             |
                                                                                         |
                          type  :help nvim{18:<Enter>}       if you are new!                  |
                          type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
@@ -2304,7 +2304,7 @@ it('ui/ext_multigrid supports intro screen', function()
       {MATCH:.*}|
       {1:~                                                                               }|
       {1:~                 }IceVim is open source and freely distributable{1:                  }|
-      {1:~                           }https://neovim.io/#chat{1:                             }|
+      {1:~                           }https://github.com/orgs/icevim-editor/discussions{1:                             }|
       {1:~                                                                               }|
       {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
       {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|

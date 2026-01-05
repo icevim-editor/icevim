@@ -4147,7 +4147,7 @@ void intro_message(bool colon)
     N_(NVIM_VERSION_LONG),
     "",
     N_("IceVim is open source and freely distributable"),
-    "https://neovim.io/#chat",
+    "https://github.com/orgs/icevim-editor/discussions",
     "",
     N_("type  :help nvim<Enter>       if you are new! "),
     N_("type  :checkhealth<Enter>     to optimize IceVim"),
