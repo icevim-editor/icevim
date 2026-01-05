@@ -2224,7 +2224,7 @@ static void usage(void)
   signal_stop();              // kill us with CTRL-C here, if you like
 
   printf(_("Usage:\n"));
-  printf(_("  nvim [options] [file ...]\n"));
+  printf(_("  ivim [options] [file ...]\n"));
   printf(_("\nOptions:\n"));
   printf(_("  --cmd <cmd>           Execute <cmd> before any config\n"));
   printf(_("  +<cmd>, -c <cmd>      Execute <cmd> after config and first file\n"));
