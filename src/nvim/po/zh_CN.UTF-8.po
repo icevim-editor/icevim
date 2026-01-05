@@ -7241,7 +7241,7 @@ msgid " f-b for $VIMRUNTIME: \""
 msgstr "  $VIMRUNTIME 预设值: \""
 
 #: ../version.c:2805
-msgid "Nvim is open source and freely distributable"
+msgid "IceVim is open source and freely distributable"
 msgstr "Nvim 是可自由分发的开放源代码软件"
 
 #: ../version.c:2808
@@ -7249,7 +7249,7 @@ msgid "type  :help nvim<Enter>       if you are new! "
 msgstr "输入  :help nvim<Enter>       了解 Neovim！   "
 
 #: ../version.c:2809
-msgid "type  :checkhealth<Enter>     to optimize Nvim"
+msgid "type  :checkhealth<Enter>     to optimize IceVim"
 msgstr "输入  :checkhealth<Enter>     优化 Neovim     "
 
 #: ../version.c:2810

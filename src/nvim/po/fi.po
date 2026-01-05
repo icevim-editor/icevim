@@ -5525,7 +5525,7 @@ msgid "by Bram Moolenaar et al."
 msgstr "tekijät Bram Moolenaar et al."
 
 #, fuzzy
-#~ msgid "Nvim is open source and freely distributable"
+#~ msgid "IceVim is open source and freely distributable"
 #~ msgstr "Vim on avointa lähdekoodia ja vapaasti jaossa"
 
 #~ msgid "https://neovim.io/community"
@@ -5536,7 +5536,7 @@ msgstr "tekijät Bram Moolenaar et al."
 #~ msgstr "kirjoita :help iccf<Enter>    lisätietoa varten            "
 
 #, fuzzy
-#~ msgid "type  :checkhealth<Enter>     to optimize Nvim"
+#~ msgid "type  :checkhealth<Enter>     to optimize IceVim"
 #~ msgstr "kirjoita :help iccf<Enter>    lisätietoa varten            "
 
 msgid "type  :q<Enter>               to exit         "

@@ -2031,11 +2031,11 @@ vimComment     xxx match /\s"[^\-:.%#=*].*$/ms=s+1,lc=1  excludenl contains=@vim
                                                                                       |*5
       {MATCH:.*}|
                                                                                       |
-                        Nvim is open source and freely distributable                  |
+                        IceVim is open source and freely distributable                  |
                                   https://neovim.io/#chat                             |
                                                                                       |
                        type  :help nvim{18:<Enter>}       if you are new!                  |
-                       type  :checkhealth{18:<Enter>}     to optimize Nvim                 |
+                       type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
                        type  :q{18:<Enter>}               to exit                          |
                        type  :help{18:<Enter>}            for help                         |
                                                                                       |
@@ -2091,11 +2091,11 @@ describe('ui/ext_messages', function()
       {1:~                                                                               }|*4
       {MATCH:.*}|
       {1:~                                                                               }|
-      {1:~                 }Nvim is open source and freely distributable{1:                  }|
+      {1:~                 }IceVim is open source and freely distributable{1:                  }|
       {1:~                           }https://neovim.io/#chat{1:                             }|
       {1:~                                                                               }|
       {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
-      {1:~                }type  :checkhealth{18:<Enter>}     to optimize Nvim{1:                 }|
+      {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
       {1:~                }type  :q{18:<Enter>}               to exit         {1:                 }|
       {1:~                }type  :help{18:<Enter>}            for help        {1:                 }|
       {1:~                                                                               }|
@@ -2127,11 +2127,11 @@ describe('ui/ext_messages', function()
         {1:~                                                                               }|*3
         {MATCH:.*}|
         {1:~                                                                               }|
-        {1:~                 }Nvim is open source and freely distributable{1:                  }|
+        {1:~                 }IceVim is open source and freely distributable{1:                  }|
         {1:~                           }https://neovim.io/#chat{1:                             }|
         {1:~                                                                               }|
         {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
-        {1:~                }type  :checkhealth{18:<Enter>}     to optimize Nvim{1:                 }|
+        {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
         {1:~                }type  :q{18:<Enter>}               to exit         {1:                 }|
         {1:~                }type  :help{18:<Enter>}            for help        {1:                 }|
         {1:~                                                                               }|
@@ -2164,11 +2164,11 @@ describe('ui/ext_messages', function()
                                                                                         |*4
         {MATCH:.*}|
                                                                                         |
-                          Nvim is open source and freely distributable                  |
+                          IceVim is open source and freely distributable                  |
                                     https://neovim.io/#chat                             |
                                                                                         |
                          type  :help nvim{18:<Enter>}       if you are new!                  |
-                         type  :checkhealth{18:<Enter>}     to optimize Nvim                 |
+                         type  :checkhealth{18:<Enter>}     to optimize IceVim                 |
                          type  :q{18:<Enter>}               to exit                          |
                          type  :help{18:<Enter>}            for help                         |
                                                                                         |
@@ -2303,11 +2303,11 @@ it('ui/ext_multigrid supports intro screen', function()
       {1:~                                                                               }|*4
       {MATCH:.*}|
       {1:~                                                                               }|
-      {1:~                 }Nvim is open source and freely distributable{1:                  }|
+      {1:~                 }IceVim is open source and freely distributable{1:                  }|
       {1:~                           }https://neovim.io/#chat{1:                             }|
       {1:~                                                                               }|
       {1:~                }type  :help nvim{18:<Enter>}       if you are new! {1:                 }|
-      {1:~                }type  :checkhealth{18:<Enter>}     to optimize Nvim{1:                 }|
+      {1:~                }type  :checkhealth{18:<Enter>}     to optimize IceVim{1:                 }|
       {1:~                }type  :q{18:<Enter>}               to exit         {1:                 }|
       {1:~                }type  :help{18:<Enter>}            for help        {1:                 }|
       {1:~                                                                               }|

@@ -7201,13 +7201,13 @@ msgstr "  заміна для $VIM: \""
 msgid " f-b for $VIMRUNTIME: \""
 msgstr " заміна для $VIMRUNTIME: \""
 
-msgid "Nvim is open source and freely distributable"
+msgid "IceVim is open source and freely distributable"
 msgstr "Nvim — це відкрита й вільно розповсюджувана програма"
 
 msgid "type  :help nvim<Enter>       if you are new! "
 msgstr ":help nvim<Enter>       якщо ви вперше!       "
 
-msgid "type  :checkhealth<Enter>     to optimize Nvim"
+msgid "type  :checkhealth<Enter>     to optimize IceVim"
 msgstr ":checkhealth<Enter>     щоб оптимізувати Nvim "
 
 msgid "type  :q<Enter>               to exit         "

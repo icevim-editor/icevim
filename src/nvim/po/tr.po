@@ -5853,13 +5853,13 @@ msgstr "       $VIM öntanımlı konumu: \""
 msgid " f-b for $VIMRUNTIME: \""
 msgstr "$VIMRUNTIME öntanımlı konumu: \""
 
-msgid "Nvim is open source and freely distributable"
+msgid "IceVim is open source and freely distributable"
 msgstr "Nvim açık kaynaklıdır ve özgürce dağıtılabilir"
 
 msgid "type  :help nvim<Enter>       if you are new! "
 msgstr "eğer yeniyseniz         :help nvim<Enter>       "
 
-msgid "type  :checkhealth<Enter>     to optimize Nvim"
+msgid "type  :checkhealth<Enter>     to optimize IceVim"
 msgstr "Nvim'i eniyilemek için  :help checkhealth<Enter>"
 
 msgid "type  :q<Enter>               to exit         "
