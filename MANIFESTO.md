@@ -37,6 +37,6 @@ IceVim has been forked from [this commit](https://github.com/neovim/neovim/commi
 ## What will get backported?
 
 * Critical bug fixes
-* Critical bug fix pull requests that perfectly fix the issue but are not applicable to Neovim and therefore not merged
+* Critical bug fix pull requests that Neovim has not merged yet
 * Security vulnerability fixes
 * Nothing else
