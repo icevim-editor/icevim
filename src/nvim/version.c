@@ -4146,11 +4146,11 @@ void intro_message(bool colon)
   static char *(lines[]) = {
     N_(NVIM_VERSION_LONG),
     "",
-    N_("Nvim is open source and freely distributable"),
+    N_("IceVim is open source and freely distributable"),
     "https://neovim.io/#chat",
     "",
     N_("type  :help nvim<Enter>       if you are new! "),
-    N_("type  :checkhealth<Enter>     to optimize Nvim"),
+    N_("type  :checkhealth<Enter>     to optimize IceVim"),
     N_("type  :q<Enter>               to exit         "),
     N_("type  :help<Enter>            for help        "),
     "",
