@@ -1,0 +1,7 @@
+vim.api.nvim_command("vsplit")
+vim.api.nvim_command("vsplit")
+vim.api.nvim_command("split")
+vim.api.nvim_command("wincmd j")
+vim.api.nvim_command("wincmd l")
+vim.api.nvim_command("split")
+vim.api.nvim_command("wincmd j")
